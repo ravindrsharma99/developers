@@ -1,0 +1,1 @@
+<a href="{{route('stripe.authorize')}}">Setup Stripe</a>

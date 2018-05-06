@@ -1,0 +1,419 @@
+[27-03-2018 04:49:32] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[27-03-2018 04:49:34] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[27-03-2018 04:49:34] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[27-03-2018 04:49:46] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[27-03-2018 04:49:49] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[27-03-2018 04:49:49] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[27-03-2018 04:49:50] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[27-03-2018 04:49:51] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[27-03-2018 04:49:51] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[27-03-2018 04:51:18] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[27-03-2018 04:51:20] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[27-03-2018 04:51:20] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[27-03-2018 04:55:07] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[27-03-2018 04:55:09] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[27-03-2018 04:55:09] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:23:50] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:23:53] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:23:53] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:31:50] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:31:52] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:31:52] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:31:54] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:31:55] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:31:55] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:31:56] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:31:58] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:31:58] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:32:17] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:32:18] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:32:18] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:32:41] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:32:42] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:32:42] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:32:55] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:32:56] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:32:56] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:32:56] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:32:57] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:32:57] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:32:57] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:32:58] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:32:58] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:32:58] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:33:00] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:33:00] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:33:41] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:33:42] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:33:42] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:37:26] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:37:28] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:37:28] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:37:28] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:37:30] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[02-04-2018 09:37:30] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[02-04-2018 09:43:23] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:43:24] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 09:43:24] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 09:43:56] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 503
+[02-04-2018 09:43:56] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 503 when accessing https://api.sandbox.paypal.com/v1/payments/payment. 
+[02-04-2018 09:43:56] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:43:57] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 09:43:57] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 09:44:28] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 503
+[02-04-2018 09:44:28] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 503 when accessing https://api.sandbox.paypal.com/v1/payments/payment. 
+[02-04-2018 09:44:28] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:44:29] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 09:44:29] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 09:45:00] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 503
+[02-04-2018 09:45:00] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 503 when accessing https://api.sandbox.paypal.com/v1/payments/payment. 
+[02-04-2018 09:45:00] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:45:02] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 09:45:02] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 09:45:33] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 503
+[02-04-2018 09:45:33] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 503 when accessing https://api.sandbox.paypal.com/v1/payments/payment. 
+[02-04-2018 09:45:33] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:45:34] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 09:45:34] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 09:46:06] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 503
+[02-04-2018 09:46:06] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 503 when accessing https://api.sandbox.paypal.com/v1/payments/payment. 
+[02-04-2018 09:46:06] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:46:07] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 09:46:07] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 09:46:38] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 503
+[02-04-2018 09:46:38] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 503 when accessing https://api.sandbox.paypal.com/v1/payments/payment. 
+[02-04-2018 09:58:56] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:58:58] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 09:58:58] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 09:59:30] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 503
+[02-04-2018 09:59:30] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 503 when accessing https://api.sandbox.paypal.com/v1/payments/payment. 
+[02-04-2018 09:59:42] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 09:59:43] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 09:59:43] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 10:00:14] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 503
+[02-04-2018 10:00:14] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 503 when accessing https://api.sandbox.paypal.com/v1/payments/payment. 
+[02-04-2018 10:01:29] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 10:01:31] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 10:01:31] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 10:02:02] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 503
+[02-04-2018 10:02:02] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 503 when accessing https://api.sandbox.paypal.com/v1/payments/payment. 
+[02-04-2018 10:03:47] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 10:03:49] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 10:03:49] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 10:04:11] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[02-04-2018 12:35:01] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:35:02] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:35:02] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:35:20] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[02-04-2018 12:37:37] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:37:38] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:37:38] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:37:50] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[02-04-2018 12:39:17] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:39:18] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:39:18] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:39:19] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:39:20] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"a12084f895098"}
+[02-04-2018 12:40:16] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:40:18] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:40:18] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:40:19] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:40:19] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"857bb95a3a4dd"}
+[02-04-2018 12:41:02] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:41:03] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:41:03] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:41:05] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:41:05] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"e6b0c6dbac143"}
+[02-04-2018 12:41:26] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:41:27] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:41:27] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:41:29] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:41:29] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"MALFORMED_REQUEST","message":"Incoming JSON request does not map to API request","information_link":"https://developer.paypal.com/webapps/developer/docs/api/#MALFORMED_REQUEST","debug_id":"25ef2397af73b"}
+[02-04-2018 12:41:48] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:41:50] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:41:50] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:41:51] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:41:51] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"MALFORMED_REQUEST","message":"Incoming JSON request does not map to API request","information_link":"https://developer.paypal.com/webapps/developer/docs/api/#MALFORMED_REQUEST","debug_id":"a0db0f1011994"}
+[02-04-2018 12:47:05] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:47:07] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:47:07] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:47:15] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[02-04-2018 12:47:42] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:47:44] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:47:44] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:47:45] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:47:45] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"ad479d71eaa01"}
+[02-04-2018 12:48:01] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:48:03] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:48:03] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:48:04] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:48:04] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"5c07daa9b48"}
+[02-04-2018 12:49:25] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:49:26] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:49:26] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:49:28] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:49:28] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"71834fdbcaac4"}
+[02-04-2018 12:49:47] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:49:48] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:49:48] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:49:50] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:49:50] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"1d03ea29b2344"}
+[02-04-2018 12:49:59] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:50:01] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:50:01] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:50:02] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:50:02] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"105fc5852cbc9"}
+[02-04-2018 12:50:43] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:50:44] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:50:44] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:50:45] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:50:45] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"b468762b86938"}
+[02-04-2018 12:51:38] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:51:40] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:51:40] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:51:41] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:51:41] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"8776b4c55097e"}
+[02-04-2018 12:52:03] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:52:05] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:52:05] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:52:06] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:52:06] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"e8b6cff74f7e4"}
+[02-04-2018 12:52:33] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:52:34] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:52:34] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:52:35] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:52:35] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"3cbb140f49bcb"}
+[02-04-2018 12:52:56] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 12:52:58] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 12:52:58] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 12:52:59] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 12:52:59] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"dbb50d1c46672"}
+[02-04-2018 01:47:30] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:47:34] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:47:34] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:47:35] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:47:35] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"be8319d236632"}
+[02-04-2018 01:48:17] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:48:18] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:48:18] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:48:19] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:48:19] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"b1f51f4033c2d"}
+[02-04-2018 01:49:58] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:49:59] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:49:59] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:50:00] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:50:00] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"f1d9d8694b859"}
+[02-04-2018 01:50:53] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:50:54] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:50:54] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:50:56] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:50:56] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"b690c1bc84789"}
+[02-04-2018 01:51:22] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:51:24] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:51:24] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:51:25] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:51:25] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"ad18882d9093"}
+[02-04-2018 01:52:17] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:52:18] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:52:18] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:52:20] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:52:20] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"2ec7314581eec"}
+[02-04-2018 01:53:24] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:53:26] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:53:26] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:53:27] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:53:27] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"15a91612e62b9"}
+[02-04-2018 01:57:31] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:57:33] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:57:33] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:57:34] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:57:34] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"a26ce84f1ae97"}
+[02-04-2018 01:57:46] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:57:47] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:57:47] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:57:48] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:57:48] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"520ff5ba36c2f"}
+[02-04-2018 01:57:51] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:57:52] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:57:52] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:57:54] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:57:54] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"b8761441b9133"}
+[02-04-2018 01:58:02] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:58:03] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:58:03] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:58:05] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:58:05] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"d51757d485eae"}
+[02-04-2018 01:58:25] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:58:26] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:58:26] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:58:27] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:58:27] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"fce09d491cf27"}
+[02-04-2018 01:58:38] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:58:40] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:58:40] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:58:41] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:58:41] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"b8c643c12cf6"}
+[02-04-2018 01:58:45] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 01:58:46] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 01:58:46] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 01:58:47] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 01:58:47] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"65290e29127a7"}
+[02-04-2018 02:01:57] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:01:59] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:01:59] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:02:00] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 02:02:00] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"e73b48efe28f9"}
+[02-04-2018 02:03:11] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:03:12] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:03:12] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:03:14] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 02:03:14] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"406a97e9968fb"}
+[02-04-2018 02:03:27] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:03:28] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:03:28] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:03:29] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 02:03:29] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"b1da441223121"}
+[02-04-2018 02:03:31] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:03:32] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:03:32] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:03:33] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 02:03:33] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"f89cfca467f8d"}
+[02-04-2018 02:04:01] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:04:02] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:04:02] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:04:04] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[02-04-2018 02:04:04] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"3ae033f6900f3"}
+[02-04-2018 02:04:33] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:04:34] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:04:34] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:04:43] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[02-04-2018 02:34:44] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:34:45] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:34:45] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:34:54] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[02-04-2018 02:36:33] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:36:34] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:36:34] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:36:43] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[02-04-2018 02:37:29] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:37:31] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:37:31] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:37:39] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[02-04-2018 02:37:46] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:37:47] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:37:47] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:37:57] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[02-04-2018 02:38:27] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[02-04-2018 02:38:28] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[02-04-2018 02:38:28] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[02-04-2018 02:38:37] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[03-04-2018 04:27:06] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 04:27:08] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 04:27:08] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 04:27:17] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[03-04-2018 04:35:30] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 04:35:31] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 401
+[03-04-2018 04:35:31] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 401 when accessing https://api.sandbox.paypal.com/v1/oauth2/token. {"error":"invalid_client","error_description":"Client Authentication failed"}
+[03-04-2018 04:37:06] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 04:37:07] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 04:37:07] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 04:37:16] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[03-04-2018 06:16:21] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 06:16:25] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 06:16:25] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 06:16:34] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[03-04-2018 09:58:14] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 09:58:15] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 09:58:15] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 09:58:26] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[03-04-2018 09:58:51] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 09:58:52] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 09:58:52] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 09:58:54] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 09:58:54] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"45e2643d2e8db"}
+[03-04-2018 09:59:19] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 09:59:20] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 09:59:20] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 09:59:21] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 09:59:21] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"MALFORMED_REQUEST","message":"Incoming JSON request does not map to API request","information_link":"https://developer.paypal.com/webapps/developer/docs/api/#MALFORMED_REQUEST","debug_id":"de8f2ee6eda17"}
+[03-04-2018 10:02:38] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:02:39] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:02:39] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:02:41] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:02:41] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"aed93a5b11abc"}
+[03-04-2018 10:04:45] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:04:46] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:04:46] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:04:48] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:04:48] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"dfac22c95cf3b"}
+[03-04-2018 10:05:55] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:05:57] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:05:57] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:05:58] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:05:58] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"MALFORMED_REQUEST","message":"Incoming JSON request does not map to API request","information_link":"https://developer.paypal.com/webapps/developer/docs/api/#MALFORMED_REQUEST","debug_id":"b0ebd8e04f285"}
+[03-04-2018 10:06:59] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:07:01] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:07:01] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:07:03] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:07:03] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].item_list.price","issue":"Field name is not defined for this resource type."},{"field":"transactions[0].item_list.tax","issue":"Field name is not defined for this resource type."},{"field":"transactions[0].item_list.description","issue":"Field name is not defined for this resource type."},{"field":"transactions[0].item_list.name","issue":"Field name is not defined for this resource type."},{"field":"transactions[0].item_list.quantity","issue":"Field name is not defined for this resource type."},{"field":"transactions[0].item_list.currency","issue":"Field name is not defined for this resource type."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"2cb3f79110978"}
+[03-04-2018 10:13:00] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:13:01] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:13:01] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:13:02] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:13:02] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"992bd177cca3f"}
+[03-04-2018 10:14:15] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:14:16] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:14:16] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:14:26] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[03-04-2018 10:15:18] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:15:19] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:15:19] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:15:20] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:15:20] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"df194de3bafd8"}
+[03-04-2018 10:15:47] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:15:48] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:15:48] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:15:49] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:15:49] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"374b42adc235f"}
+[03-04-2018 10:16:09] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:16:11] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:16:11] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:16:12] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:16:12] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"4c36406765ecc"}
+[03-04-2018 10:16:14] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:16:16] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:16:16] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:16:17] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:16:17] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"7b655a5d696a7"}
+[03-04-2018 10:17:00] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:17:01] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:17:01] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:17:02] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:17:02] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"de10af85c0600"}
+[03-04-2018 10:17:04] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:17:05] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:17:05] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:17:06] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:17:06] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions","issue":"Item amount must add up to specified amount subtotal (or total if amount details not specified)."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"edfa6972dac1c"}
+[03-04-2018 10:17:40] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:17:42] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:17:42] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:17:51] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[03-04-2018 10:19:04] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:19:06] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:19:06] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:19:07] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:19:07] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"6ef3d9d351819"}
+[03-04-2018 10:19:09] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:19:10] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:19:10] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:19:11] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 400
+[03-04-2018 10:19:11] PayPal\Core\PayPalHttpConnection : ERROR: Got Http response code 400 when accessing https://api.sandbox.paypal.com/v1/payments/payment. {"name":"VALIDATION_ERROR","details":[{"field":"transactions[0].amount","issue":"Transaction amount details (subtotal, tax, shipping) must add up to specified amount total."}],"message":"Invalid request. See details.","information_link":"https://developer.paypal.com/docs/api/payments/#errors","debug_id":"b8f280c6cfcb8"}
+[03-04-2018 10:19:48] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 10:19:50] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 10:19:50] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 10:19:58] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201
+[03-04-2018 12:34:39] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/oauth2/token
+[03-04-2018 12:34:44] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 200
+[03-04-2018 12:34:44] PayPal\Core\PayPalHttpConnection : INFO: POST https://api.sandbox.paypal.com/v1/payments/payment
+[03-04-2018 12:34:54] PayPal\Core\PayPalHttpConnection : INFO: Response Status 	: 201

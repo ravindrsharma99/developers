@@ -1,0 +1,28 @@
+<?php
+    return [
+        'email_is_used' => 'Email is used. Please choose a new one.',
+        'top_rated_apps' => 'Top rated apps',
+        'entertainment_apps' => 'Entertainment Apps',
+        'newest_apps' => 'Newest Apps',
+        'this_developer_is_no_longer_exists' => 'This developer is not found',
+        'this_developer_is_no_longer_active' => 'This developer is no longer active.',
+        'app_apps' => 'All Apps',
+        'add_comment_successfully' => 'Add comment successfully.',
+        'update_comment_successfully' => 'Update comment successfully',
+        'update_profile_successfully' => 'Update profile successfully',
+        'keyword_is_required' => 'Keyword is required.',
+        'top_app_in_category' => 'Top :title Apps',
+        'recent_apps' => 'Recent Apps',
+        'register_successfully' => 'Register successfully.',
+        'no_user_match_with_this_email' => 'No user is matched with this email. Please input a valid user email.',
+        'a_new_password_sent_to_your_email' => 'A new password has been sent to your email. Please open your email and get password to login.',
+        'current_password_is_incorrect' => 'Current password is invalid.',
+        'change_password_successfully' => 'Change password successfully.',
+        'related_app' => 'Related App',
+        'form_this_developer' => 'From this Developer',
+        'no_found_found_add_new_one' => 'No credit card found. Please add a new one.',
+        'save_card_success' => 'Save card successfully.',
+        'purchased_this_app' => 'Purchased this app successfully.',
+        'card_is_invalid' => 'Card is invalid.',
+        'no_card_is_avaiable' => 'No card is available. Please go setting to set up new one.'
+    ];
